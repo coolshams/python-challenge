@@ -16,4 +16,4 @@ This one was a little bit tricky with a larger data set & use of dictionaries. S
 2. Use of strip function to eliminate unwated characters/spaces.
 
 #### Conclusion
-Getting familiar with VS code & concept dictionary, revisiting recordings and some serious googling helped me with this one!
+Getting familiar with VS code & concept of dictionary, revisiting recordings and some serious googling helped me with this one!
