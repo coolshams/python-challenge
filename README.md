@@ -2,7 +2,7 @@
 
 ### General
 PyBank & PyPoll have Analysis & Resources folders. Resources folders have the input data sets & analysis folders have the output text files.
-main.py contain the code.
+main.py contain the code & it has been commented as necessary.
 
 #### PyBank Overview
 Approached this using single for loop. The calculations/equations were straight forward on this one.Some key takeaways:
