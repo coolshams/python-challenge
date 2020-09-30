@@ -5,7 +5,7 @@ PyBank & PyPoll have Analysis & Resources folders. Resources folders have the in
 main.py contains the code. Comments have been added as necessary.
 
 #### PyBank Overview
-Approached this using single for loop. The calculations/equations were straight forward on this one.Some key takeaways:
+Approached this using single for loop. The calculations/equations were straight forward on this one. Some key takeaways:
 1. os.path.join for appropriate file paths. Explored/read a bit on this.
 2. Use of split function to "visualize" the csv file contents as "two columns".
 3. Printing an output text file!
